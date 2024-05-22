@@ -30,7 +30,7 @@ Test Input:\
 Input Array: [1, 1, 1, 2, 2, 3, 3, 3, 4, 5]
 
 
-3. Recursion Question: Factorial\
+3: Recursion Question: Factorial\
 Question: Write a recursive function to find the factorial of a non-negative integer n.\
 Explanation:\
 The factorial of a non-negative integer n is the product of all positive integers less than or equal to n.\
@@ -44,7 +44,7 @@ Test Input:\
 n = 10
 
 
-5. Rotate Array\
+4: Rotate Array\
 Question: Given an array and an integer k, rotate the array to the right by k steps.\
 Explanation:\
 Given an array and an integer k, we want to move the last k elements of the array to the front.\
